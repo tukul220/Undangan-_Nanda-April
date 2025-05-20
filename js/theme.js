@@ -2,7 +2,7 @@ import { storage } from './storage.js';
 
 export const theme = (() => {
 
-    const THEME_DARK = '#FFC0CB ';
+    const THEME_DARK = 'dark';
     const THEME_LIGHT = 'light';
     const themeColors = {
         '#000000': '#FFFFFF',
